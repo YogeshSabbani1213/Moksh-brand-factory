@@ -26,7 +26,12 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <span>Designed &amp; built by {brand.designer}</span>
+        <span>
+          Designed &amp; built by{' '}
+          <a href={brand.designerUrl} rel="noreferrer" target="_blank">
+            {brand.designer}
+          </a>
+        </span>
         <span>© 2026 {brand.name}</span>
       </div>
     </footer>

@@ -7,7 +7,8 @@ export const brand = {
   instagramUrl:
     'https://www.instagram.com/moksh_fashion_?utm_source=ig_web_button_share_sheet&dlrf=ZDNlZDc0MzIxNw==',
   phone: '',
-  designer: '[YOUR NAME]',
+  designer: 'Yogesh Sabbani',
+  designerUrl: 'https://yogesh-s-portfolio.vercel.app/',
   description:
     'Find the pieces that feel like you at MBF Stores. Visit us in Nizamabad for a fresh take on everyday style.',
   categories: [
