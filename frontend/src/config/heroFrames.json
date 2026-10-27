@@ -1,0 +1,10 @@
+{
+  "desktop": {
+    "count": 200,
+    "path": "/frames/d/"
+  },
+  "mobile": {
+    "count": 120,
+    "path": "/frames/m/"
+  }
+}
